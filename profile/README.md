@@ -32,11 +32,11 @@ Some of our open source work:
 
 ## Resources
 
-- [Documentation](https://docs.imbue.com)  
-- [Blog](https://imbue.com/blog)  
-- [Website](https://imbue.com)  
-- [YouTube](https://www.youtube.com/@imbue_ai)  
-- [X](https://x.com/imbue_ai)
+- 📚 [Documentation](https://docs.imbue.com)
+- ✍️ [Blog](https://imbue.com/blog)
+- 🌐 [Website](https://imbue.com)
+- 🎥 [YouTube](https://www.youtube.com/@imbue_ai)
+- 🐦 [X](https://x.com/imbue_ai)
 
 ## Join us
 
