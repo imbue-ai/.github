@@ -2,14 +2,9 @@
 
 ![Imbue banner](./Ehsan-2.jpg)
 
-** We are building AI that works for humans.**
+We are building AI that works for humans.
 
-Imbue develops tools that help people think, create, and build.  
-Our goal is simple: AI should amplify human capability, not replace it.
-
-We believe technology should be loyal to the user. Tech should be aligned with human goals, transparent in how it works, and empowering to the people who use it.
-
----
+Imbue develops tools that help people think, create, and build. We believe technology should be loyal to the user. Tech should be aligned with human goals, transparent in how it works, and empowering to the people who use it.
 
 ## What we’re building
 
@@ -24,28 +19,22 @@ Our work spans multiple products:
 
 We share many of our tools openly because we believe progress in AI should be collaborative and developer-driven.
 
----
-
 ## Projects
 
 Some of our open source work:
 
-- **Latchkey** – secure API access for agents  
-- **Darwinian Evolver** – evolving prompts and code through iterative search  
-- **Cluster Health** – tools for managing large GPU clusters  
-- **Self Supervised** – research implementations of self-supervised algorithms  
+- **Latchkey**: secure API access for agents  
+- **Darwinian Evolver**: evolving prompts and code through iterative search  
+- **Cluster Health**: tools for managing large GPU clusters  
+- **Self Supervised**: research implementations of self-supervised algorithms  
 
 See all repositories → https://github.com/imbue-ai?tab=repositories
-
----
 
 ## Resources
 
 - Documentation: https://docs.imbue.com
 - Blog: https://imbue.com/blog
 - Website: https://imbue.com
-
----
 
 ## Join us
 
