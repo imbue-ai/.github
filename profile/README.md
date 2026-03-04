@@ -6,11 +6,7 @@
 
 Imbue develops tools that help people think, create, and build. We believe technology should be loyal to the user. Tech should be aligned with human goals, transparent in how it works, and empowering to the people who use it.
 
-## What we’re building
-
-Imbue develops systems that help developers and researchers build powerful AI-enabled workflows.
-
-Our work spans multiple products:
+Imbue develops systems that help developers and researchers build powerful AI-enabled workflows. Our work spans multiple products:
 
 - Coding agents and developer tools  
 - Infrastructure for large-scale AI systems  
@@ -40,6 +36,6 @@ Some of our open source work:
 
 ## Join us
 
-We’re always interested in collaborating with researchers and developers exploring human-centered AI.
+We’re always interested in collaborating with researchers and developers exploring human-centered AI!
 
 [Careers →](https://imbue.com/careers)
