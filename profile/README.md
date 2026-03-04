@@ -1,6 +1,6 @@
 # Welcome to Imbue!
 
-![Imbue banner](https://your-image-url)
+![Imbue banner](./Ehsan-2.jpg)
 
 ** We are building AI that works for humans.**
 
