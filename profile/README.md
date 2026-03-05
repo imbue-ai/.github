@@ -1,6 +1,6 @@
 # Welcome to Imbue!
 
-![Imbue banner](./Ehsan-2.jpg)
+![Imbue banner](./team-all-hands.jpg)
 
 **We are building AI that works for humans.**
 
