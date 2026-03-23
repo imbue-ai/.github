@@ -22,7 +22,7 @@ Some of our open source work:
 - **[Latchkey](https://github.com/imbue-ai/latchkey)** — secure API access for agents  
 - **[Darwinian Evolver](https://github.com/imbue-ai/darwinian_evolver)** — evolving prompts and code through iterative search  
 - **[Cluster Health](https://github.com/imbue-ai/cluster-health)** — tools for managing large GPU clusters  
-- **[Self Supervised](https://github.com/imbue-ai/self_supervised)** — pytorch-lightning implementations of self-supervised algorithms  
+- **[Self Supervised](https://github.com/imbue-ai/self_supervised)** — research implementations of self-supervised algorithms  
 
 [See all repositories →](https://github.com/imbue-ai?tab=repositories)
 
