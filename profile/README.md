@@ -2,40 +2,34 @@
 
 ![Imbue banner](./team-all-hands.jpg)
 
-**We are building AI that works for humans.**
+**We build AI that works for humans.**
 
-Imbue develops tools that help people think, create, and build. We believe technology should be loyal to the user. Tech should be aligned with human goals, transparent in how it works, and empowering to the people who use it.
+Imbue develops tools that help people think, create, and build. We believe technology should be loyal to the user and aligned with human goals. We also share many of our tools openly because we believe progress in AI should be collaborative and developer-driven.
 
-Imbue develops systems that help developers and researchers build powerful AI-enabled workflows. Our work spans multiple products:
-
-- Coding agents and developer tools  
-- Infrastructure for large-scale AI systems  
-- Research into aligned, human-centered AI  
-- Open-source tools that help developers build with AI  
-
-We share many of our tools openly because we believe progress in AI should be collaborative and developer-driven.
 
 ## Projects
 
 Some of our open source work:
 
-- **[Latchkey](https://github.com/imbue-ai/latchkey)** — secure API access for agents  
+- **[mngr](https://github.com/imbue-ai/mngr)** — CLI for managing coding agents
+- **[Bouncer](https://github.com/imbue-ai/bouncer)** - filter (and heal) your social media feeds
+- **[Latchkey](https://github.com/imbue-ai/latchkey)** — local private auth to connect agents 
+- **[Vet](https://github.com/imbue-ai/vet)** — reviews code and catches agents' overconfidence
+- **[Keystone](https://github.com/imbue-ai/keystone)** — one-shot configure a Dockerfile for any repo
+- **[Offload](https://github.com/imbue-ai/offload)** — runs tests in Modal sandboxes in parallel
 - **[Darwinian Evolver](https://github.com/imbue-ai/darwinian_evolver)** — evolving prompts and code through iterative search  
-- **[Cluster Health](https://github.com/imbue-ai/cluster-health)** — tools for managing large GPU clusters  
-- **[Self Supervised](https://github.com/imbue-ai/self_supervised)** — research implementations of self-supervised algorithms  
 
 [See all repositories →](https://github.com/imbue-ai?tab=repositories)
 
 ## Resources
 
-- 📚 [Documentation](https://docs.imbue.com)
-- ✍️ [Blog](https://imbue.com/blog)
 - 🌐 [Website](https://imbue.com)
-- 🎥 [YouTube](https://www.youtube.com/@imbue_ai)
+- ✍️ [Blog](https://imbue.com/blog)
+- 📚 [Docs](https://docs.imbue.com)
 - 🐦 [X](https://x.com/imbue_ai)
+- 🎥 [YouTube](https://www.youtube.com/@imbue_ai)
 
-## Join us
 
-We’re always interested in collaborating with researchers and developers exploring human-centered AI!
+## Build with us
 
-[Careers →](https://imbue.com/careers)
+We’re always looking for collaboraters, builders, researchers, and developers that are excited to explore human-centered AI. Open a discussion or raise an issue on any repo, join us [in Discord](https://discord.com/invite/GvK8MsCVgk), and browse [Imbue's open jobs](https://imbue.com/careers).
