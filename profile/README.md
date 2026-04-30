@@ -19,7 +19,7 @@ Some of our open source work:
 - **[Offload](https://github.com/imbue-ai/offload)** — runs tests in Modal sandboxes in parallel
 - **[Darwinian Evolver](https://github.com/imbue-ai/darwinian_evolver)** — evolving prompts and code through iterative search  
 
-[See all repositories →](https://github.com/imbue-ai?tab=repositories)
+[See all repositories →](https://github.com/orgs/imbue-ai/repositories)
 
 ## Resources
 
