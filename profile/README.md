@@ -17,7 +17,8 @@ Some of our open source work:
 - **[Vet](https://github.com/imbue-ai/vet)** — reviews code and catches agents' overconfidence
 - **[Keystone](https://github.com/imbue-ai/keystone)** — one-shot configure a Dockerfile for any repo
 - **[Offload](https://github.com/imbue-ai/offload)** — runs tests in Modal sandboxes in parallel
-- **[Darwinian Evolver](https://github.com/imbue-ai/darwinian_evolver)** — evolving prompts and code through iterative search  
+- **[Darwinian Evolver](https://github.com/imbue-ai/darwinian_evolver)** — evolving prompts and code through iterative search
+- **[Sculptor](https://github.com/imbue-ai/sculptor)** — desktop app for running coding agents in parallel
 
 [See all repositories →](https://github.com/orgs/imbue-ai/repositories)
 
