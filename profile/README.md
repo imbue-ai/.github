@@ -33,4 +33,4 @@ Some of our open source work:
 
 ## Build with us
 
-We’re always looking for collaboraters, builders, researchers, and developers that are excited to explore human-centered AI. Open a discussion or raise an issue on any repo, join us [in Discord](https://discord.com/invite/GvK8MsCVgk), and browse [Imbue's open jobs](https://imbue.com/careers).
+We’re always looking for collaborators, builders, researchers, and developers that are excited to explore human-centered AI. Open a discussion or raise an issue on any repo, join us [in Discord](https://discord.com/invite/GvK8MsCVgk), and browse [Imbue's open jobs](https://imbue.com/careers).
